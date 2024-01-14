@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Dream City in HTML</title>
+
+</head>
+<body>
+    <h1>Atlantica</h1><p>
+
+    </p>
+    <h4>The city of ocean dreams!</h4><p>
+
+    </p>
+    <a href="description">description</a>
+    <a href="description">attractions</a>
+    <a href="description">statistics</a>
+    <a href="description">feedback</a>
+    <a href="description">contact</a>
+    <p>
+
+    </p>
+    <h2>Discover Atlantica
+    </h2>
+    <p></p>
+    <img src="https://media.istockphoto.com/id/1346087246/photo/atlantic-forest-river-in-brazil.jpg?s=612x612&w=0&k=20&c=sr8mZ4hfr8EurcK8jb6-PJorsmKTdcPH5h5h1miu1_U="><p>
+    Atlantica,city where the horizon merges the sky with the ocean,offering dreams as a canvas as vast as the sea.
+<p></p>
+<h2>Attractions</h2><p></p>
+<h3>Main Attractions</h3><p></p>
+<ol type="1">
+    <li>Atlantic Tower</li>
+    <li>Deep sea museum</li>
+    <li>the oceanic bridge</li>
+</ol>
+<p></p>
+<h3>Local favourites</h3><p></p>
+<ul type="disc">
+    <li>Mermans Street</li>
+    <li>Neptune Diner</li>
+    <li>Atlantica Beaches</li>
+        <li type="circle">North Beaches</li>
+        <li>Reef Bay</li>
+        <li>Mermaid Cove</li>
+</ul>
+<p></p>
+<h2>City Statistics</h2><p></p>
+<table border="1 px">
+    <thead>
+        <tr>
+            <th>Attribute</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <th>Population</th>
+            <th>5 Miliion</th>
+        </tr>
+        <tr>
+            <th>landmarks</th>
+            <th>25</th>
+
+        </tr>
+        <tr>
+            <th>parks</th>
+            <th>18</th>
+        </tr>
+        <tr>
+            <th>schools</th>
+            <th>120</th>
+        </tr>
+        <tr>
+            <th>beaches</th>
+            <th>7</th>
+        </tr>
+    </thead>
+</table>
+<p></p>
+<h2>Feedback</h2>
+<form action="post">
+    Name:<input type="text" required><br>
+    Email:<input type="email"><br>
+    Age:  <input type="number"><br>
+    favorite attractions: <select name="drop" id="d1">
+        <option value="">atlantic tower</option>
+        <option value="">deep sea museum</option>
+        <option value="">oceanic bridge</option>
+    </select> <br>
+    comments:<input tpe="textarea" rowspan="10" colspan="20"><br>
+    newsletter:<input type="checkbox">subscribe to our newsletter<br>
+    <button type="submit">submit</button><br>
+</form>
+<h2>What Citizens Say</h2>
+*Altantica's Beaches are paradise on earth,nothing beats a sunset here! -alex
+<br>
+*the blend of modern skyscrappers and ancient oceanic history is nesnarizing!  -isabelle<br>
+<h2>contact us</h2>
+atlantica tourism office<br>
+100,ocean drive,atlantica<br>
+email:<a href="info@atlantica.com">info@atlantica.com</a><br>
+phone:123-456-7890<p>
+   @ 2023:Atlantica Tourism: Dive Into Dreams!
+
+
+</body>
+</html>
